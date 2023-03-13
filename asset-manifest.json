@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/basic-histogram/static/css/main.cd30ef6f.css",
+    "main.js": "/basic-histogram/static/js/main.2e32ef0e.js",
+    "static/js/787.abd26edf.chunk.js": "/basic-histogram/static/js/787.abd26edf.chunk.js",
+    "index.html": "/basic-histogram/index.html",
+    "main.cd30ef6f.css.map": "/basic-histogram/static/css/main.cd30ef6f.css.map",
+    "main.2e32ef0e.js.map": "/basic-histogram/static/js/main.2e32ef0e.js.map",
+    "787.abd26edf.chunk.js.map": "/basic-histogram/static/js/787.abd26edf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd30ef6f.css",
+    "static/js/main.2e32ef0e.js"
+  ]
+}
