@@ -1,15 +1,17 @@
 {
   "files": {
-    "main.css": "/basic-histogram/static/css/main.cd30ef6f.css",
-    "main.js": "/basic-histogram/static/js/main.c4dfc954.js",
+    "main.css": "/basic-histogram/static/css/main.6c10792a.css",
+    "main.js": "/basic-histogram/static/js/main.d1faa884.js",
     "static/js/787.2fee8b51.chunk.js": "/basic-histogram/static/js/787.2fee8b51.chunk.js",
+    "static/media/github.svg": "/basic-histogram/static/media/github.c21dc2c952a96175dc43.svg",
     "index.html": "/basic-histogram/index.html",
-    "main.cd30ef6f.css.map": "/basic-histogram/static/css/main.cd30ef6f.css.map",
-    "main.c4dfc954.js.map": "/basic-histogram/static/js/main.c4dfc954.js.map",
+    "static/media/table-regular.svg": "/basic-histogram/static/media/table-regular.a7f1b37329496e519047.svg",
+    "main.6c10792a.css.map": "/basic-histogram/static/css/main.6c10792a.css.map",
+    "main.d1faa884.js.map": "/basic-histogram/static/js/main.d1faa884.js.map",
     "787.2fee8b51.chunk.js.map": "/basic-histogram/static/js/787.2fee8b51.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cd30ef6f.css",
-    "static/js/main.c4dfc954.js"
+    "static/css/main.6c10792a.css",
+    "static/js/main.d1faa884.js"
   ]
 }
